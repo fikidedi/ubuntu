@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## UBUNTU TIPS AND TRIK
 
 You can use the [editor on GitHub](https://github.com/fikidedi/ubuntu/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -55,7 +55,7 @@ $sudo /opt/lampp/lampp start
 $sudo /opt/lampp/lampp stop
 ```
 
-### Mengubah permession htdocs
+### Mengubah permisi htdocs
 ```markdown
 $sudo chmod -R 777 /opt/lampp/htdocs
 ```
